@@ -1,2 +1,3 @@
-numpy 
-langflow
+os
+langchain
+openai
